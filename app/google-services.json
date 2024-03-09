@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956595930282",
+    "project_id": "spending-aea67",
+    "storage_bucket": "spending-aea67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956595930282:android:f22ffd255ce959fde93cd3",
+        "android_client_info": {
+          "package_name": "com.smit.spending"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbhyvyqZAU9hIDk5hTAbYPCiXlXrvJdsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
